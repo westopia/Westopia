@@ -1,16 +1,52 @@
-## Hi there 👋
+# hey, I'm Westopia 👋
 
-<!--
-**westopia/Westopia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> _Communication Science Student · Coding, Gaming & Music Enthusiast · Based in Indonesia_
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## about me
+
+I'm a frontend developer who spends way too much time doing a random stuff, building things nobody asked for, and listening to music at unreasonable volumes.
+
+When I'm not coding, I'm probably:
+
+- 🎮 Playing video games but mostly on Roblox
+- 🎵 Adding songs to a playlist I'll never finish
+- 📺 Binge-watching something I should've watched months ago
+- 😴 Sleeping
+
+---
+
+## tech I actually use
+
+```ts
+const Westopia = {
+  frontend: [
+    "React",
+    "SvelteKit",
+    "TanStack Router",
+    "TypeScript",
+    "Tailwind CSS",
+  ],
+  backend: ["Supabase", "Vercel Functions"],
+  currently: "making my site look cooler",
+  editor: "VS Code — yes, with a dark theme",
+  os: "Windows 11 Pro",
+  hoursLost: "countless, to CSS centering",
+} satisfies Developer;
+```
+
+---
+
+## find me
+
+- 🌐 Website → [Click me](https://westopia.cc)
+- 🎵 Stats.fm → [Westopia](https://stats.fm/glendstp)
+- 📸 Instagram → [@glendstp](https://www.instagram.com/glendstp)
+- 🐦 Twitter → [@glendstp](https://twitter.com/glendstp)
+
+---
+
+<p align="center">
+  <sub>thanks for stopping by.</sub>
+</p>
