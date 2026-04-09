@@ -6,11 +6,11 @@
 
 ## about me
 
-I'm a frontend developer who spends way too much time doing a random stuff, building things nobody asked for, and listening to music at unreasonable volumes.
+I'm a frontend developer who spends way too much time doing random stuff, building things nobody asked for, and listening to music at unreasonable volumes.
 
 When I'm not coding, I'm probably:
 
-- 🎮 Playing video games but mostly on Roblox
+- 🎮 Playing video games, but mostly on Roblox
 - 🎵 Adding songs to a playlist I'll never finish
 - 📺 Binge-watching something I should've watched months ago
 - 😴 Sleeping
