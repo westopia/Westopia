@@ -21,13 +21,7 @@ When I'm not coding, I'm probably:
 
 ```ts
 const Westopia = {
-  frontend: [
-    "React",
-    "SvelteKit",
-    "TanStack Router",
-    "TypeScript",
-    "Tailwind CSS",
-  ],
+  frontend: ["React", "SvelteKit", "TanStack Router", "TypeScript", "Tailwind CSS",],
   backend: ["Supabase", "Vercel Functions"],
   currently: "making my site look cooler",
   editor: "VS Code — yes, with a dark theme",
