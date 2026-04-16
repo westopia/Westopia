@@ -23,7 +23,7 @@ const Westopia = {
   frontend: ["React", "SvelteKit", "TanStack Router", "TypeScript", "Tailwind CSS"],
   backend: ["Supabase", "Vercel Functions"],
   currently: "making my site look cooler",
-  editor: "VS Code — yes, with a dark theme",
+  editor: "VS Code & Zed",
   os: "Windows 11 Pro",
   hoursLost: "countless, to CSS centering",
 } satisfies Developer;
